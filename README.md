@@ -49,7 +49,7 @@ python3 main.py
 ## Credits
 **Author : [HackerBrain](https://github.com/hackers-brain/)**
 
-**Website : [gauravraj.rf.gd](https://thehackersbrain.pythonanywhere.com/)**
+**Website : [thehackersbrain.pythonanywhere.com](https://thehackersbrain.pythonanywhere.com/)**
 
 **HackersBrain : [HackTheBox](https://www.hackthebox.eu/profile/303514)**
 
