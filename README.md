@@ -1,5 +1,5 @@
 # Youtube Video Downloader
-![yt_downloader](https://hackers-brain.github.io/images/joker/yt_downloader.png)
+![yt_downloader](https://thehackersbrain.github.io/images/joker/yt_downloader.png)
 
 Youtube Video Downloader using Python3
 GUI Program for Downloading Youtube Videos using Python3 and Tkinter
@@ -33,18 +33,46 @@ pip3 install pytube3
 Note : Make sure all requirements are satisfied...
 
 ## Uses
+
+### Linux
+
 clone this repo
 ```
-git clone https://github.com/hackers-brain/yt_downloader.git
+git clone https://github.com/thehackersbrain/yt_downloader.git
 ```
 change directory
 ```
 cd yt_downloader
 ```
-run main script
+run setup script
 ```
-python3 main.py 
+python3 setup.py 
 ```
+run setup script only one time, for using the program again run main.py
+```
+python3 setup.py
+```
+
+### Windows
+
+clone this repo
+```
+git clone https://github.com/thehackersbrain/yt_downloader.git
+```
+change directory
+```
+cd yt_downloader
+```
+install all requirements
+```
+pip install -r requirements.txt
+```
+now run the main script
+```
+python main.py
+```
+
+
 
 ## Credits
 **Author : [HackerBrain](https://github.com/hackers-brain/)**
